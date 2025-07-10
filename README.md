@@ -1,71 +1,83 @@
-# Financial-Loan-
-# 💸 Financial Loan Dashboard (Power BI Project) - 2021 (USA)
 
-This Power BI dashboard presents a comprehensive analysis of financial loan data in the USA for the year 2021. It includes interactive visuals to explore loan distributions, approval trends, risk metrics, and more.
+# 💼 Financial Loan Dashboard – 2021 (USA)
 
----
+## 📊 Project Overview
+This Power BI Dashboard provides a detailed visual representation of loan activities across the United States for the year 2021. It helps stakeholders quickly grasp key metrics and patterns such as loan purposes, approval trends, state-wise loan distributions, and borrower profiles.
 
-## 📊 Dashboard Features
-
-### 1. **Key KPIs**
-- 📌 Total Loan Amount
-- 📝 Total Applications & Approved Loans
-- ✅ Approval Rate
-- 📉 Average Interest Rate & EMI
-
-
-### 2. **Visualizations**
-
-| Chart | Purpose |
-|-------|---------|
-| 📈 Line Chart | Monthly trends of loan applications, payments, and funded amount |
-| 🌎 Filled Map | Regional analysis of loan distribution by US states |
-| 🎯 Donut Chart | Distribution of loan terms (e.g., 36 vs 60 months) |
-| 📊 Bar Charts | Loan purpose and employment length analysis |
-| 🏠 Tree Map | Home ownership status and its effect on loans |
-| 📎 Pie Chart | Loan status breakdown (Fully Paid, Charged Off, etc.)
+## 🎯 Objective
+To offer actionable insights to stakeholders including finance teams, loan officers, and senior management. This dashboard helps in:
+- Identifying high-performing states
+- Monitoring monthly trends
+- Evaluating borrower types
+- Tracking approval and disbursement performance
 
 ---
 
-## 🧠 Insights Generated
-- Most applications are for **Debt Consolidation**
-- California leads in loan applications
-- Approval rate consistently stays above **80%**
-- Loans with longer employment history have better funding rates
+## 📌 Dashboard Highlights
+
+### 1️⃣ KPI Cards
+- **Total Loan Amount:** ₹436M  
+- **Total Applications:** 39K  
+- **Approved Loans:** 32K  
+- **Approval Rate:** 83.33%  
+- **Average EMI:** ₹267.32  
+- **Average Interest Rate:** 0.12  
 
 ---
 
-## 🔧 Tools Used
-- **Power BI Desktop**
-- **DAX** for calculated measures
-- **GitHub** for version control
-- **CSV Dataset** for raw data
+### 2️⃣ Total Applications by Address State
+- **Visualization:** Filled Map
+- **Purpose:** Understand which states have the highest loan applications.
 
 ---
 
-## 📁 Project Files
-
-| File | Description |
-|------|-------------|
-| `Financial Loan.pbix` | Power BI Dashboard |
-| `financial_loan.csv` | Cleaned dataset used in dashboard |
-| `README.md` | Project documentation |
+### 3️⃣ Total Applications by Purpose
+- **Visualization:** Horizontal Bar Chart
+- **Purpose:** Breakdown of loan purposes like debt consolidation, credit cards, and home improvements.
 
 ---
 
-## 🧠 How to Use
-1. Clone the repository
-2. Open the `.pbix` file in Power BI Desktop
-3. Explore and interact with the visuals
+### 4️⃣ Home Ownership Analysis
+- **Visualization:** Tree Map
+- **Purpose:** Shows loan distribution based on borrowers' home ownership status: Rent, Mortgage, Own.
 
 ---
 
-## 🚀 Future Improvements
-- Integrate **Power Automate** alerts (e.g., approval drop)
-- Add **forecasting** for loan predictions
-- Connect with **live data sources**
+### 5️⃣ Loan Status Overview
+- **Visualization:** Donut Chart
+- **Purpose:** Tracks the status of loans - Fully Paid, Charged Off, Current.
 
 ---
 
+### 6️⃣ Monthly Trends by Issue Date
+- **Visualization:** Line Chart  
+- **Purpose:** Displays trends in loan applications, funded amounts, and payments across each month.
 
 ---
+
+## 📂 Files Included
+- `Financial Loan.pbix` – Power BI dashboard file  
+- `financial_loan.csv` – Raw data file  
+- `README.md` – Project documentation  
+
+---
+
+## 🚀 How to Use
+1. Download the `Financial Loan[1].pbix` file.
+2. Open in **Power BI Desktop**.
+3. Review visual insights or customize further based on your needs.
+
+---
+
+## 🧠 Insights & Learnings
+- States like CA and NY lead in loan activity.
+- The majority of loans are for debt consolidation.
+- Approval rate remains high at 83%.
+- Most borrowers are either renting or on a mortgage.
+
+---
+
+## 📌 Future Enhancements
+- Add forecasting using Power BI’s Analytics pane.
+- Integrate with Power Automate to trigger alerts (e.g., low approval rate).
+- Enable drill-through for borrower-level deep dives.
