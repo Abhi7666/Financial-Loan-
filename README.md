@@ -58,7 +58,13 @@ To offer actionable insights to stakeholders including finance teams, loan offic
 ## 📂 Files Included
 - `Financial Loan.pbix` – Power BI dashboard file  
 - `financial_loan.csv` – Raw data file  
-- `README.md` – Project documentation  
+- `README.md` – Project documentation
+
+This project uses a large dataset for financial loan analysis.
+
+📥 **Dataset (CSV)**:  
+    **Dashboard (pbix)**: 
+[Download from Google Drive](https://drive.google.com/drive/folders/1mblma76Aggd4TUBvpMB8yx9qXi0aPwZf)
 
 ---
 
