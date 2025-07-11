@@ -5,7 +5,7 @@
 This Power BI Dashboard provides a detailed visual representation of loan activities across the United States for the year 2021. It helps stakeholders quickly grasp key metrics and patterns such as loan purposes, approval trends, state-wise loan distributions, and borrower profiles.
 
 ## 🎯 Objective
-To offer actionable insights to stakeholders including finance teams, loan officers, and senior management. This dashboard helps in:
+To offer actionable insights to stakeholders, including finance teams, loan officers, and senior management. This dashboard helps in:
 - Identifying high-performing states
 - Monitoring monthly trends
 - Evaluating borrower types
@@ -16,12 +16,17 @@ To offer actionable insights to stakeholders including finance teams, loan offic
 ## 📌 Dashboard Highlights
 
 ### 1️⃣ KPI Cards
-- **Total Loan Amount:** ₹436M  
-- **Total Applications:** 39K  
-- **Approved Loans:** 32K  
-- **Approval Rate:** 83.33%  
-- **Average EMI:** ₹267.32  
-- **Average Interest Rate:** 0.12  
+Total Loan Amount: $436M
+
+Total Applications: 39K
+
+Approved Loans: 32K
+
+Approval Rate: 83.33%
+
+Average EMI: $267.32
+
+Average Interest Rate: 0.12
 
 ---
 
